@@ -2,7 +2,8 @@
 # Fluid Dynamics with Python
 ### ICT Summer School 2022
 
-**Fluid Dynamics with Python** is for ICT Summer School 2022. In this course, we will learn the fundamental of fluid dynamics as well as Python programming. In addition, we will also learn Computational Fluid Dynamics (CFD) by coding solutions to the basic partial differential equations that describe the physics of fluid flow.
+_Fluid Dynamics with Python_ is for ICT Summer School 2022. 
+In this course, we will learn the fundamental of fluid dynamics as well as Python programming. In addition, we will also learn Computational Fluid Dynamics (CFD) by coding solutions to the basic partial differential equations that describe the physics of fluid flow.
 Some course materials are custimized for this course from a course by [Prof. Lorena Barba](http://lorenabarba.com) between 2009 and 2013 in the Mechanical Engineering department at Boston University (Prof. Barba since moved to the George Washington University).
 
 Guiding students through these steps (without skipping any!), they learn many valuable lessons. The incremental nature of the exercises means they get a sense of achievement at the end of each assignment, and they feel they are learning with low effort. As they progress, they naturally practice code re-use and they incrementally learn programming and plotting techniques. As they analyze their results, they learn about numerical diffusion, accuracy and convergence. 
