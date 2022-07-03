@@ -9,11 +9,11 @@ Some course materials are custimized for this course from a course by [Prof. Lor
 
 ### Learning outcomes of the course
 This course introduces the fundamentals of fluid dynamics and its practices with Python. The participating students learn the government equations for fluid flow and how to compute them by using jupyterLab. Specifically, the following study aims and competencies are highlighted in this course;
-•	to increase knowledge about the fundamentals of fluid dynamics
-•	to increase knowledge about the governing equations for fluid flow 
-•	to calculate some simplified 2-D fluid flow fields using computational fluid dynamics and jupyterLab.
-•	to calculate the wind flows in the simplified 2-D city areas using actual map data and meteorological data.
-•	to acquire Python programming skills for fluid flow calculations
+- to increase knowledge about the fundamentals of fluid dynamics
+- to increase knowledge about the governing equations for fluid flow 
+- to calculate some simplified 2-D fluid flow fields using computational fluid dynamics and jupyterLab.
+- to calculate the wind flows in the simplified 2-D city areas using actual map data and meteorological data.
+- to acquire Python programming skills for fluid flow calculations
 
 
 ### Prerequisites and co-requisites
