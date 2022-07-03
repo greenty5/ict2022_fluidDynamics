@@ -6,7 +6,7 @@ Welcome to _Fluid Dynamics with Python_ in ICT Summer School 2022.
 On this course, we will learn the fundamental of fluid dynamics as well as Python programming. In addition, we will also learn Computational Fluid Dynamics (CFD) by coding solutions to the basic partial differential equations that describe the physics of fluid flow.
 Some course materials are custimized for this course from a course by [Prof. Lorena Barba](http://lorenabarba.com) between 2009 and 2013 in the Mechanical Engineering department at Boston University (Prof. Barba since moved to the George Washington University).
 
-
+-------
 ### Learning outcomes of the course
 This course introduces the fundamentals of fluid dynamics and its practices with Python. The participating students learn the government equations for fluid flow and how to compute them by using jupyterLab. Specifically, the following study aims and competencies are highlighted in this course;
 •	to increase knowledge about the fundamentals of fluid dynamics
@@ -15,11 +15,12 @@ This course introduces the fundamentals of fluid dynamics and its practices with
 •	to calculate the wind flows in the simplified 2-D city areas using actual map data and meteorological data.
 •	to acquire Python programming skills for fluid flow calculations
 
+-------
 ### Prerequisites and co-requisites
 Participating students have basic mathematics, such as linear algebra, vector and matrix operations, linear combination, basic multivariate calculus, partial differential equation, etc.
 The students preferably have basic programming skills in Python.
 
-
+-------
 ### Course contents
 #### Session 1: Quick introduction to Python (jupyterLab)
 - How to program by using Python (jupyterLab)
@@ -41,17 +42,21 @@ The students preferably have basic programming skills in Python.
 - wind flows in simplified 2-D city areas.
 - Independent research by using fluid dynamics simulation
 
+-------
 ### Assessment criteria
 #### Satisfactory
 Daily exercises on the course are worth 50%, and reports about fluid dynamics simulation (python programming) are worth 50%.
 
+-------
 ### Approved / Failed
 Daily exercises on the course are worth 50%, and reports about fluid dynamics simulation (python programming) are worth 50%.
 
+-------
 ### Further information
 A computer with the following software is necessary: Office software (i.e., MS Office, Apple Keynote/Numbers/Pages, Libre Office) and a web browser that can execute "google colaboratory" on it.
 Slides, exercise handouts, and jupyterLab examples will be provided in sessions.
 
+-------
 ### Recommended optional programme components
 The student advisor will recommend optional programme components for each student based on their individual study plan.
 
@@ -105,7 +110,7 @@ Steps 1–4 are in one spatial dimension. Steps 5–10 are in two dimensions (2D
 
 
 
-
+-------
 ## Dependencies
 
 To use these lessons, you need Python 3, and the standard stack of scientific Python: NumPy, Matplotlib, SciPy, Sympy. And of course, you need [Jupyter](http://jupyter.org)—an interactive computational environment that runs on a web browser.
