@@ -22,11 +22,16 @@ The students preferably have basic programming skills in Python.
 
 
 ### Course contents
+#### Section 0: Introduction
+- About this lecture
+- Goal of this lecture
 #### Session 1: Quick introduction to Python (jupyterLab)
 - How to program by using Python (jupyterLab)
+- Mathmatical expressions on jupyterLab
 - Variables / Arrays / Libraries / Assigning array variables
 - How to visualize results of fluid flow calculations
 #### Session 2: Basis of fluid dynamics
+- Basis of fluid flow (Bernolli's theorem)
 - Governing equations of fluid flow
 #### Session 3: Fundamentals of discretization of partial differential equations
 - Explicit scheme / Implicit scheme / semi-implicit scheme
@@ -107,60 +112,5 @@ Steps 1–4 are in one spatial dimension. Steps 5–10 are in two dimensions (2D
 —Solves the Navier-Stokes equation for 2D cavity flow.
 * [Step 12](http://nbviewer.jupyter.org/github/barbagroup/CFDPython/blob/master/lessons/15_Step_12.ipynb)
 —Solves the Navier-Stokes equation for 2D channel flow.
-
-
-
--------
-## Dependencies
-
-To use these lessons, you need Python 3, and the standard stack of scientific Python: NumPy, Matplotlib, SciPy, Sympy. And of course, you need [Jupyter](http://jupyter.org)—an interactive computational environment that runs on a web browser.
-
-This mini-course is built as a set of [Jupyter notebooks](https://jupyter-notebook.readthedocs.org/en/latest/notebook.html) containing the written materials and worked-out solutions on Python code. To work with the material, we recommend that you start each lesson with a fresh new notebook, and follow along, typing each line of code (don't copy-and-paste!), and exploring by changing parameters and seeing what happens. 
-
-
-#### Installing via Anaconda
-We *highly* recommend that you install the [Anaconda Python Distribution](http://docs.continuum.io/anaconda/install). It will make your life so much easier. 
-You can download and install Anaconda on Windows, OSX and Linux. 
-
-After installing, to ensure that your packages are up to date, run the following commands in a terminal:
-
-```Bash
-conda update conda
-conda update jupyter numpy sympy scipy matplotlib
-```
-
-If you prefer Miniconda (a mini version of Anaconda that saves you disk space), install all the necessary libraries to follow this course by running the following commands in a terminal:
-
-```Bash
-conda update conda
-conda install jupyter
-conda install numpy scipy sympy matplotlib
-```
-
-
-#### Without Anaconda
-If you already have Python installed on your machine, you can install Jupyter using pip:
-
-```Bash
-pip install jupyter
-```
-
-Please also make sure that you have the necessary libraries installed by running
-
-```Bash
-pip install numpy scipy sympy matplotlib
-```
-
-
-### Running the notebook server
-
-Once Jupyter is installed, open up a terminal and then run 
-
-```Bash
-jupyter notebook
-```
-
-This will start up a Jupyter session in your browser!
-
 
 > This lecture refers "CFD Python: the 12 steps to Navier-Stokes equation.", _Journal of Open Source Education_, **1**(9), 21 (2018) https://doi.org/10.21105/jose.00021 by Barba, Lorena A., and Forsyth, Gilbert F.
