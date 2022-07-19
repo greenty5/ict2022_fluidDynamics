@@ -31,7 +31,7 @@ The students preferably have basic programming skills in Python.
 - Variables / Arrays / Libraries / Assigning array variables
 - How to visualize results of fluid flow calculations
 #### Session 2: Basis of fluid dynamics
-- What fluid dynamics is 
+- What is fluid flow (fluid dynamics)?
 - Basis of fluid flow (Bernolli's theorem)
 - Torricelli's law
 - How to measure fluid flow velocity
