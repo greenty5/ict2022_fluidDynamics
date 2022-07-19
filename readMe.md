@@ -31,7 +31,10 @@ The students preferably have basic programming skills in Python.
 - Variables / Arrays / Libraries / Assigning array variables
 - How to visualize results of fluid flow calculations
 #### Session 2: Basis of fluid dynamics
+- What fluid dynamics is 
 - Basis of fluid flow (Bernolli's theorem)
+- Torricelli's law
+- How to measure fluid flow velocity
 - Governing equations of fluid flow
 #### Session 3: Fundamentals of discretization of partial differential equations
 - Explicit scheme / Implicit scheme / semi-implicit scheme
