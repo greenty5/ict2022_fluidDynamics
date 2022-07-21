@@ -24,7 +24,7 @@ The students preferably have basic programming skills in Python.
 - About this lecture
 - Goal of this lecture
 #### Session 1: Quick introduction to Python (jupyterLab)
-- How to program by using Python (jupyterLab)
+- How to implement program jupyterLab/colab
 - Mathmatical expressions on jupyterLab
 - Variables / Arrays / Libraries / Assigning array variables
 - How to visualize results of fluid flow calculations
@@ -32,7 +32,7 @@ The students preferably have basic programming skills in Python.
 - What is fluid flow (fluid dynamics)?
 - Basis of fluid flow (Bernolli's theorem)
 - Torricelli's law
-- How to measure fluid flow velocity
+- How to measure fluid flow velocity: Pitot tube
 - Governing equations of fluid flow
 #### Session 3: Fundamentals of discretization of partial differential equations
 - Explicit scheme / Implicit scheme / semi-implicit scheme
