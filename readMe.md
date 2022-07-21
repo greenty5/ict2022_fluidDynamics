@@ -4,8 +4,6 @@
 
 Welcome to _Fluid Dynamics with Python_ in ICT Summer School 2022. 
 On this course, we will learn the fundamental of fluid dynamics as well as Python programming. In addition, we will also learn Computational Fluid Dynamics (CFD) by coding solutions to the basic partial differential equations that describe the physics of fluid flow.
-Some course materials are custimized for this course from a course by [Prof. Lorena Barba](http://lorenabarba.com) between 2009 and 2013 in the Mechanical Engineering department at Boston University (Prof. Barba since moved to the George Washington University).
-
 
 ### Learning outcomes of the course
 This course introduces the fundamentals of fluid dynamics and its practices with Python. The participating students learn the government equations for fluid flow and how to compute them by using jupyterLab. Specifically, the following study aims and competencies are highlighted in this course;
@@ -80,4 +78,4 @@ In all cases, learners should follow along the worked examples in each lesson by
 
 Steps 1–4 are in one spatial dimension. Steps 5–10 are in two dimensions (2D). Steps 11–12 solve the Navier-Stokes equation in 2D. Three "bonus" notebooks cover the CFL condition for numerical stability, array operations with NumPy, and defining functions in Python.
 
-> This lecture refers "CFD Python: the 12 steps to Navier-Stokes equation.", _Journal of Open Source Education_, **1**(9), 21 (2018) https://doi.org/10.21105/jose.00021 by Barba, Lorena A., and Forsyth, Gilbert F.
+> These lecture materials refers to "CFD Python: the 12 steps to Navier-Stokes equation.", _Journal of Open Source Education_, **1**(9), 21 (2018) https://doi.org/10.21105/jose.00021 by Barba, Lorena A., and Forsyth, Gilbert F.
