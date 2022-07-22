@@ -45,7 +45,9 @@ The students preferably have basic programming skills in Python.
 - Cavity flow
 - Channel flow
 #### Session 6: Fluid dynamics simulation (computation 3)
-- wind flows in simplified 2-D city areas.
+- How to obtain geographic (map) data
+- How to obtain real meteorological data
+- Wind flows in simplified 2-D city areas
 - Independent research by using fluid dynamics simulation
 
 
