@@ -24,7 +24,7 @@ The students preferably have basic programming skills in Python.
 - About this lecture
 - Goal of this lecture
 #### Session 1: Quick introduction to Python (jupyterLab)
-- How to implement program jupyterLab/colab
+- How to implement fluid dynamics program on jupyterLab/colab
 - Mathmatical expressions on jupyterLab
 - Variables / Arrays / Libraries / Assigning array variables
 - How to visualize results of fluid flow calculations
