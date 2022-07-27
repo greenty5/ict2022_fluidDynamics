@@ -71,13 +71,5 @@ The student advisor will recommend optional programme components for each studen
 
 
 -------
-## How to use this module
-
-In a regular-session university course, students can complete the **CFD Python** lessons in 4 to 5 weeks. 
-As an intensive tutorial, the module can be completed in two or three full days, depending on the learner's prior experience. 
-The lessons can also be used for self study. 
-In all cases, learners should follow along the worked examples in each lesson by re-typing the code in a fresh Jupyter notebook, maybe taking original notes as they try things out. 
-
-Steps 1–4 are in one spatial dimension. Steps 5–10 are in two dimensions (2D). Steps 11–12 solve the Navier-Stokes equation in 2D. Three "bonus" notebooks cover the CFL condition for numerical stability, array operations with NumPy, and defining functions in Python.
 
 > These lecture materials refers to "CFD Python: the 12 steps to Navier-Stokes equation.", _Journal of Open Source Education_, **1**(9), 21 (2018) https://doi.org/10.21105/jose.00021 by Barba, Lorena A., and Forsyth, Gilbert F.
