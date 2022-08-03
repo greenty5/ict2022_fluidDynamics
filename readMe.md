@@ -39,9 +39,9 @@ The students preferably have basic programming skills in Python.
 
 - What is fluid flow (fluid dynamics)?
 - Pressure
+  - Experiment; Try to take out an item in the bottle without water leakage
   - Torricellian vaccum
   - Mercury column/Water column
-  - Experiment; Try to take out an item in the bottle without water leakage
   - Pascal's principle
 - Types of fluids
   - Experiment; Stirring two kinds of fluid
@@ -50,9 +50,9 @@ The students preferably have basic programming skills in Python.
     - Newtonian fluid
     - non-Newtonian fluid
 - Types of fluid flow
+  - Experiment; Try to control a falling ball
   - Laminar flow/Trubulent flow
   - Reynolds number
-  - Experiment; Try to control a falling ball
 - Basis of fluid flow (Bernolli's theorem)
   - Experiment; Snowman
   - Basis of Bernoulli's theorem
@@ -60,6 +60,7 @@ The students preferably have basic programming skills in Python.
   - Intravenous drip
   - Experiment; Spouting flow
   - How to measure fluid flow velocity: Pitot tube
+  - Simple particle image velocimetory
 - Governing equations of fluid flow
 
 #### Session 3: Fundamentals of discretization of partial differential equations
